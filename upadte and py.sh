@@ -8,4 +8,4 @@ sudo apt install python3-pip -y
 apt install python3.12-venv -y
 
 
-update
+updating
